@@ -1,8 +1,5 @@
-import React from 'react';
-import Dashboard from '@/components/Dashboard';
-
-const Index: React.FC = () => {
-  return <Dashboard />;
+const Index = () => {
+  return <h1>Smart Alert Insurance</h1>;
 };
 
 export default Index;
